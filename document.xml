@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<orders>
+  <shiporder orderid="ID07351" orderdate="01-Jan">
+    <orderperson>Customer</orderperson>
+    <shipto>
+      <name>University of California San Diego</name>
+      <address>9500 Gilman Drive, La Jolla, CA 92093, USA</address>
+      <city>San Diego</city>
+      <region>CA 92093, USA</region>
+    </shipto>
+    <item>
+      <title>Bars - Carrot</title>
+      <note></note>
+      <quantity>1233</quantity>
+      <price>1.77</price>
+      <total>2182.41</total>
+    </item>
+  </shiporder>
+  <shiporder orderid="ID07351" orderdate="01-Jan">
+    <orderperson>Customer</orderperson>
+    <shipto>
+      <name>820 N Western AVE</name>
+      <address>Los Angeles, CA 90029, USA</address>
+      <city>Los Angeles</city>
+      <region>CA 90029, USA</region>
+    </shipto>
+    <item>
+      <title>Crackers - Whole Wheat</title>
+      <note></note>
+      <quantity>87</quantity>
+      <price>3.49</price>
+      <total>303.63</total>
+    </item>
+  </shiporder>
+  <shiporder orderid="ID07351" orderdate="01-Jan">
+    <orderperson>Customer</orderperson>
+    <shipto>
+      <name>9350 Maie AVE APT 301</name>
+      <address>Los Angeles, CA 90002, USA</address>
+      <city>Los Angeles</city>
+      <region>CA 90002, USA</region>
+    </shipto>
+    <item>
+      <title>Cookies - Chocolate Chip</title>
+      <note></note>
+      <quantity>58</quantity>
+      <price>1.87</price>
+      <total>108.46</total>
+    </item>
+  </shiporder>
+  <shiporder orderid="ID07359" orderdate="31-Jan">
+    <orderperson>Customer</orderperson>
+    <shipto>
+      <name>Gramercy Green 310 3rd Ave</name>
+      <address>New York, NY 10010, USA</address>
+      <city>New York</city>
+      <region>NY 10010, USA</region>
+    </shipto>
+    <item>
+      <title>Bars - Carrot</title>
+      <note></note>
+      <quantity>100</quantity>
+      <price>1.77</price>
+      <total>177.00</total>
+    </item>
+  </shiporder>
+  <shiporder orderid="ID07359" orderdate="31-Jan">
+    <orderperson>Customer</orderperson>
+    <shipto>
+      <name>Torch Club 18 Waverly Pl</name>
+      <address>New York, NY 10003, USA</address>
+      <city>New York</city>
+      <region>NY 10003, USA</region>
+    </shipto>
+    <item>
+      <title>Snacks - Potato Chips</title>
+      <note></note>
+      <quantity>28</quantity>
+      <price>1.35</price>
+      <total>37.80</total>
+    </item>
+  </shiporder>
+  <shiporder orderid="ID07359" orderdate="31-Jan">
+    <orderperson>Customer</orderperson>
+    <shipto>
+      <name>16 Beacon Street</name>
+      <address>Boston,  MA 02108, USA</address>
+      <city>Boston</city>
+      <region>MA 02108, USA</region>
+    </shipto>
+    <item>
+      <title>Cookies - Arrowroot</title>
+      <note></note>
+      <quantity>36</quantity>
+      <price>2.18</price>
+      <total>78.48</total>
+    </item>
+  </shiporder>
+  <shiporder orderid="ID07359" orderdate="31-Jan">
+    <orderperson>Customer</orderperson>
+    <shipto>
+      <name>Beacon Hill Friends House</name>
+      <address>6 Chestnut Street, Boston, MA 02108, USA</address>
+      <city>Boston</city>
+      <region>MA 02108, USA</region>
+    </shipto>
+    <item>
+      <title>Cookies - Chocolate Chip</title>
+      <note></note>
+      <quantity>31</quantity>
+      <price>1.87</price>
+      <total>57.97</total>
+    </item>
+  </shiporder>
+  <shiporder orderid="ID07359" orderdate="31-Jan">
+    <orderperson>Customer</orderperson>
+    <shipto>
+      <name>Union Club of Boston</name>
+      <address>8 Park St Pl, Boston, MA 02108, USA</address>
+      <city>Boston</city>
+      <region>MA 02108, USA</region>
+    </shipto>
+    <item>
+      <title>Crackers - Whole Wheat</title>
+      <note></note>
+      <quantity>45</quantity>
+      <price>3.49</price>
+      <total>157.05</total>
+    </item>
+  </shiporder>
+</orders>
